@@ -14,11 +14,12 @@
 
 
 ## 数据集 ##
+本数据集是基于PASCAL VOC 2007数据集制作，其中包含合成的黑夜图像，存入NewImage中。
+
 百度网盘：
 链接：https://pan.baidu.com/s/1GxYrVO8POdzK5FOTuRBPuw 
 提取码：eesr 
 
-# 说明：# 本数据集是基于PASCAL VOC 2007数据集制作，其中包含合成的黑夜图像，存入NewImage中。
 
 
 ## 实验结果 ##
